@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://arielslai.github.io/music1701-PrettyGirls/sitemap.xml
